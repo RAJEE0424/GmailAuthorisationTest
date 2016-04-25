@@ -1,0 +1,36 @@
+{
+  "testCases" : [ {
+    "uid" : "bd4baf7db1f38dd1",
+    "name" : "invalidlogin",
+    "title" : "Invalidlogin",
+    "time" : {
+      "start" : 1461576489792,
+      "stop" : 1461576500275,
+      "duration" : 10483
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "ded13b619e900454",
+    "name" : "login",
+    "title" : "Login",
+    "time" : {
+      "start" : 1461576500326,
+      "stop" : 1461576512731,
+      "duration" : 12405
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8deaafe69e298592",
+    "name" : "noValue",
+    "title" : "No value",
+    "time" : {
+      "start" : 1461576512734,
+      "stop" : 1461576525663,
+      "duration" : 12929
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}

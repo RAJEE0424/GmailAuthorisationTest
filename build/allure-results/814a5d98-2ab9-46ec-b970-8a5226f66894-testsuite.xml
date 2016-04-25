@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1461363291896" stop="1461363360580">
+    <name>Surefire suite</name>
+    <test-cases>
+        <test-case start="1461363291944" stop="1461363305330" status="passed">
+            <name>invalidlogin</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1461363305382" stop="1461363318739" status="passed">
+            <name>login</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1461363318742" stop="1461363360097" status="passed">
+            <name>noValue</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+    </test-cases>
+    <labels/>
+</ns2:test-suite>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="35915" started-at="2016-04-25T09:28:09Z" finished-at="2016-04-25T09:28:45Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="35915" started-at="2016-04-25T09:28:09Z" finished-at="2016-04-25T09:28:45Z">
+      <class name="steps.valueNotSpecifiedTest">
+        <test-method status="PASS" signature="noValue()[pri:0, instance:steps.valueNotSpecifiedTest@4fb3ee4e]" name="noValue" duration-ms="12929" started-at="2016-04-25T10:28:32Z" finished-at="2016-04-25T10:28:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noValue -->
+      </class> <!-- steps.valueNotSpecifiedTest -->
+      <class name="steps.invalidLoginTest">
+        <test-method status="PASS" signature="invalidlogin()[pri:0, instance:steps.invalidLoginTest@f5acb9d]" name="invalidlogin" duration-ms="10494" started-at="2016-04-25T10:28:09Z" finished-at="2016-04-25T10:28:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidlogin -->
+      </class> <!-- steps.invalidLoginTest -->
+      <class name="steps.validLoginTest">
+        <test-method status="PASS" signature="login()[pri:0, instance:steps.validLoginTest@22ef9844]" name="login" duration-ms="12405" started-at="2016-04-25T10:28:20Z" finished-at="2016-04-25T10:28:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- steps.validLoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,3 @@
+steps\invalidLoginTest.class
+steps\validLoginTest.class
+steps\valueNotSpecifiedTest.class
